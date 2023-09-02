@@ -31,7 +31,8 @@
      - Text content is styled using various classes like `text-white`, `font-sans`, and `text-xl`.
      - Icon elements use Font Awesome classes like `fa-solid` and `fa-dumbbell` to display icons.
 
-![image](https://github.com/ThakareSakshi/tailwind-project/assets/86354291/35377fcf-85c5-4a22-9015-250e0e8e221a)
+
+![tcss-project-3](https://github.com/ThakareSakshi/tailwind-project/assets/86354291/45fa96f6-ba09-4b21-9028-4dc04e1a1c7c)
 
 5. **Trainers Section**:
 
@@ -39,8 +40,8 @@
    - Each trainer profile uses classes like `flex`, `flex-col`, `p-2`, and `rounded-md` for styling.
    - AOS (Animate On Scroll) is used for animations. For example, `data-aos="flip-left"` triggers a flip-left animation when the element scrolls into view.
 
-![image](https://github.com/ThakareSakshi/tailwind-project/assets/86354291/91e02fb5-b17f-49bf-8f79-7d7904d11829)
 
+![image](https://github.com/ThakareSakshi/tailwind-project/assets/86354291/35377fcf-85c5-4a22-9015-250e0e8e221a)
 ![image](https://github.com/ThakareSakshi/tailwind-project/assets/86354291/5b2cc295-e212-4f0f-aaa0-27e844159a70)
 
 
